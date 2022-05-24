@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: BruteText
+Version: 0.0.1
+Summary: For generating brute force style text
+Home-page: https://github.com/yagiziskirik/BruteText
+Author: Yagiz Iskirik
+Author-email: yagiziskirik@icloud.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
 # Brute Text
 This is a program which emulates text input like a brute force technique.
 
