@@ -16,12 +16,12 @@ pip3 install BruteText
 ```
 
 ### Terminal
-Use `python3 -m BruteText.brutetext Your text to be typed` to type your text. If you like to change the time interval you can use the program as `python3 -m BruteText.brutetext -t x Your text to be type` where x is the time (milliseconds) to wait between inputs.
+Use `python3 -m BruteText Your text to be typed` to type your text. If you like to change the time interval you can use the program as `python3 -m BruteText -t x Your text to be type` where x is the time (milliseconds) to wait between inputs.
 
 ### As a module
 You can import this script and use it like this:
-```
-from BruteText import brutetext
+```py
+import BruteText
 
-brutetext.bruteText("Text to be typed", x)  ## x where the time (milliseconds) between inputs.
+BruteText("Text to be typed", x)  ## x where the time (milliseconds) between inputs.
 ```
