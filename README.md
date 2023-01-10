@@ -1,4 +1,6 @@
 # Brute Text
+![PyPI - Downloads](https://img.shields.io/pypi/dm/GithubMaker) ![PyPI - License](https://img.shields.io/pypi/l/GithubMaker) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/GithubMaker) ![PyPI](https://img.shields.io/pypi/v/GithubMaker) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/GithubMaker) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/GithubMaker)
+
 This is a program which emulates text input like a brute force technique.
 
 ## Usage

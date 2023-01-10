@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: BruteText
-Version: 0.1.1
+Version: 0.1.2
 Summary: For generating brute force style text
 Home-page: https://github.com/yagiziskirik/BruteText
 Author: Yagiz Iskirik
@@ -13,6 +13,8 @@ Description-Content-Type: text/markdown
 License-File: LICENSE.md
 
 # Brute Text
+![PyPI - Downloads](https://img.shields.io/pypi/dm/GithubMaker) ![PyPI - License](https://img.shields.io/pypi/l/GithubMaker) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/GithubMaker) ![PyPI](https://img.shields.io/pypi/v/GithubMaker) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/GithubMaker) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/GithubMaker)
+
 This is a program which emulates text input like a brute force technique.
 
 ## Usage
