@@ -1,5 +1,5 @@
 # Brute Text
-![PyPI - Downloads](https://img.shields.io/pypi/dm/GithubMaker) ![PyPI - License](https://img.shields.io/pypi/l/GithubMaker) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/GithubMaker) ![PyPI](https://img.shields.io/pypi/v/GithubMaker) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/GithubMaker) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/GithubMaker)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/BruteText) ![PyPI - License](https://img.shields.io/pypi/l/BruteText) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/BruteText) ![PyPI](https://img.shields.io/pypi/v/BruteText) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/BruteText) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/BruteText)
 
 This is a program which emulates text input like a brute force technique.
 
