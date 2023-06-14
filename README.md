@@ -1,5 +1,5 @@
 # Brute Text
-![PyPI - Downloads](https://img.shields.io/pypi/dm/BruteText) ![PyPI - License](https://img.shields.io/pypi/l/BruteText) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/BruteText) ![PyPI](https://img.shields.io/pypi/v/BruteText) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/BruteText) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/BruteText)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/BruteText) ![PyPI - License](https://img.shields.io/pypi/l/BruteText) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/BruteText) ![PyPI](https://img.shields.io/pypi/v/BruteText) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/BruteText) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/BruteText) [![Downloads](https://static.pepy.tech/badge/brutetext)](https://pepy.tech/project/brutetext)
 
 This is a program which emulates text input like a brute force technique.
 
